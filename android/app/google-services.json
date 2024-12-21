@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "807553429591",
+    "project_id": "mohas-ecommerce",
+    "storage_bucket": "mohas-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807553429591:android:78cda0beb4c526b2f0f312",
+        "android_client_info": {
+          "package_name": "com.liyumarket.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807553429591-v27gdagf89vvbfempofh1ovsf5g6mjvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiIeWDGED98_AyfPNP9h160kV9TC1kFKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807553429591-v27gdagf89vvbfempofh1ovsf5g6mjvb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807553429591-cm85n8ua1m2cd2lebh6bbncqg0ir7sa6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.liyumarket.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

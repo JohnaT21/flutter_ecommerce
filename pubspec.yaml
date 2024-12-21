@@ -1,0 +1,78 @@
+name: ecommerce
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  cupertino_icons: ^1.0.2
+  flutter_screenutil: ^5.6.0
+  google_fonts: ^3.0.1
+  flutter_bloc: ^8.1.1
+  equatable: ^2.0.5
+  json_annotation: ^4.7.0
+  get_storage: ^2.0.3
+  get_it: ^7.2.0
+  firebase_core: ^2.4.0
+  firebase_notifications_handler: ^1.1.0
+  firebase_messaging: ^14.1.4
+  google_sign_in: ^5.4.1
+  firebase_auth: ^4.0.1
+  pinput: ^2.2.12
+  google_maps_widget: ^1.0.5+1
+  moment_dart: ^0.13.0
+  flutter_svg: ^1.1.6
+  carousel_slider: ^4.2.1
+  cached_network_image: ^3.2.3
+  grouped_list: ^5.1.2
+  flutter_rating_bar: ^4.0.1
+  dio: ^4.0.6
+  socket_io_client: ^2.0.1
+  internet_connection_checker: ^1.0.0+1
+  url_launcher: ^6.1.8
+  dartz: ^0.10.1
+  logger: ^1.1.0
+  image_picker: ^0.8.6+3
+  share_plus: ^6.3.1
+  jwt_decoder: ^2.0.1
+  otp_text_field: ^1.1.3
+  alt_sms_autofill: ^1.0.0
+  path_provider: ^2.0.13
+  image_cropper: ^3.0.1
+  flutter_local_notifications:
+  dependency_validator: ^3.2.2
+  visibility_detector: ^0.4.0+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  json_serializable: ^6.5.4
+  build_runner: ^2.3.3
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: "^0.11.0"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/liyu_logo.png"
+  image_path_ios: "assets/images/liyu_logo.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/svgs/
+    - assets/lang/

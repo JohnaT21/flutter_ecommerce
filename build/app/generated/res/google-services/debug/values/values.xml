@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">807553429591-v27gdagf89vvbfempofh1ovsf5g6mjvb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">807553429591</string>
+    <string name="google_api_key" translatable="false">AIzaSyCiIeWDGED98_AyfPNP9h160kV9TC1kFKs</string>
+    <string name="google_app_id" translatable="false">1:807553429591:android:78cda0beb4c526b2f0f312</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCiIeWDGED98_AyfPNP9h160kV9TC1kFKs</string>
+    <string name="google_storage_bucket" translatable="false">mohas-ecommerce.appspot.com</string>
+    <string name="project_id" translatable="false">mohas-ecommerce</string>
+</resources>
